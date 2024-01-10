@@ -1,6 +1,4 @@
 # 高崎高校 物理部
-こちらは高崎高校 物理部の GitHub Organization です。<br />
-物理部部員が勝手に運営しているOrganizationのため、こちらの内容に関して高崎高校への電話やメールはお控えください。<br />
 
 ### 高崎高校関連リンク
 - 高崎高校
@@ -8,8 +6,8 @@
 
 - 高崎高校 物理部
   - [Twitter(X)](https://twitter.com/takataka_robo)
-  - [Blog(Hugo)](https://takasaki-physics.github.io)
-  - [Blog(はてなブログ)](https://robocup-zunda.hatenablog.com)
+  - [Blog](https://takasaki-physics.github.io) (2023/2H-2024)
+  - [Blog](https://robocup-zunda.hatenablog.com) (2022-2023/1H)
 
 - 翠巒祭公式
   - [サイト](https://suiranfes.blue)
