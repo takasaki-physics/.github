@@ -1,5 +1,5 @@
 # 高崎高校 物理部
-[![Logo](../img/logo.png)](https://github.com/takasaki-physics)
+[![Logo](/img/logo.png)](https://github.com/takasaki-physics)
 
 ### 関連URL
 - 高崎高校
