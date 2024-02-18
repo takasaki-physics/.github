@@ -1,11 +1,11 @@
 # People
-- 不明(2021春 - 2023夏?)
-  - ロボ関係?: [Sanzentyo](https://github.com/Sanzentyo)
 
 - 2021春 - 2023夏
-  - 副部長?: [negi-tech](https://github.com/negi-tech)
+  - [negi-tech](https://github.com/negi-tech) (副部長?)
+  - [Sanzentyo](https://github.com/Sanzentyo) (多分)
 
 - 2022春 - 2024夏
-  - 部長: [nAgI314](https://github.com/nAgI314)
-  - 副部長: [Izaak-Grinner](https://github.com/Izaak-Grinner)
-  - デザインとか: [mint73](https://github.com/mint73)
+  - [nAgI314](https://github.com/nAgI314) (部長)
+  - [Izaak-Grinner](https://github.com/Izaak-Grinner) (副部長)
+  - [ssadokafy](https://github.com/ssadokafy)
+  - [mint73](https://github.com/mint73)
