@@ -1,5 +1,7 @@
 # People
 
+詳細/最新情報 -> [メンバー | 物理部 Blog](https://takasaki-physics.github.io/p/members/)
+
 - 122期 (2020/4月 - 2023/3月)
   - [Sanzentyo](https://github.com/Sanzentyo) (部長)
 
