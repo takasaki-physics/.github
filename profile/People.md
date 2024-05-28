@@ -1,8 +1,10 @@
 # People
 
+- 122期 (2020/4月 - 2023/3月)
+  - [Sanzentyo](https://github.com/Sanzentyo) (部長)
+
 - 123期 (2021/4月 - 2024/3月)
   - [negi-tech](https://github.com/negi-tech) (副部長?)
-  - [Sanzentyo](https://github.com/Sanzentyo) (多分)
 
 - 124期 (2022/4月 - 2025/3月)
   - [nAgI314](https://github.com/nAgI314) (部長)
