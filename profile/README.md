@@ -4,6 +4,7 @@
 ### 関連URL
 - 高崎高校
   - [高崎高校](https://takasaki-hs.gsn.ed.jp)
+  - [高崎高校 SSH](https://sites.google.com/edu-g.gsn.ed.jp/takasaki-ssh)
 
 - 高崎高校 物理部
   - [Twitter(X)](https://twitter.com/takataka_robo)
