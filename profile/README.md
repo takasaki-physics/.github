@@ -1,4 +1,5 @@
 # 高崎高校 物理部
+群馬県立高崎高等学校物理部
 [![Logo](/img/logo.png)](https://github.com/takasaki-physics)
 
 ### 関連URL
