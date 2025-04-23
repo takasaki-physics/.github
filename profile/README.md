@@ -11,7 +11,7 @@
   - [Twitter(X)](https://twitter.com/takataka_robo)
   - [Blog](https://takasaki-physics.github.io) (2023/2H-2024) (Created by [@mint73](https://github.com/mint73))
   - [Blog](https://robocup-zunda.hatenablog.com) (2022-2023/1H)
-  - [ハードウェア関連資料](https://negi-tech.net) (Created by [@koji1027](https://github.com/koji1027))
+  - [ハードウェア関連資料](https://koji1027.github.io/TakasakiPhysicsClub-RoboCup-Documentation/) (Created by [@koji1027](https://github.com/koji1027))
 
 - 翠巒祭実行委員
   - [サイト](https://suiranfes.blue)
